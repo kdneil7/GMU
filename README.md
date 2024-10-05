@@ -1,4 +1,4 @@
-# Welcome to Kristin's Site
+### Welcome to Kristin's Site
 
 |  |  |
 | --- | --- |
