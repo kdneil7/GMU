@@ -1,3 +1,5 @@
+### Welcome to Kristin's Site
+
 ## Introduction
 I am a Junior at George Mason University pursuing a degree in Information Technology. I really love the networking side of IT. However, I have difficulty coding and do not want to build applications or web pages for a living!
 
