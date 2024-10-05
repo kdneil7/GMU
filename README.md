@@ -3,8 +3,8 @@
 
 <table>
   <tr>
-    <th>Name</th>
-    <th>Kristin Neil</th>
+    <td>Name</td>
+    <td>Kristin Neil</td>
      </tr>
   <tr>
     <td>Intro</td>
