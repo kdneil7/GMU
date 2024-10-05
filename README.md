@@ -16,4 +16,4 @@
     </tr>
 </table>
 
-<a href="https://kdneil7.github.io/GMU/Introduction.md/">Take a look at my Introduction Page!</a>
+<a href="https://kdneil7.github.io/GMU/Introduction.md">Take a look at my Introduction Page!</a>
