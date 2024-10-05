@@ -1,4 +1,4 @@
-# GMU
+# Welcome to Kristin's Site
 
 |  |  |
 | --- | --- |
